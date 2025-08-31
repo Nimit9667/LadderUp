@@ -62,4 +62,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-Developed by [Your Name] and [Teammate Name]. For any inquiries, open an issue or contact via Github.
+Developed by Nimit Sharma and Sharad Agnihotri. For any inquiries, open an issue or contact via Github.
