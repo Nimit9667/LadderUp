@@ -37,8 +37,8 @@ Utilizes data files for career information and imagery (ensure files like ladder
 Installation
 
 Clone the Repository
-git clone https://github.com/your-username/your-chatbot-repo.git
-cd your-chatbot-repo
+https://github.com/Nimit9667/LadderUp
+cd https://github.com/Nimit9667/LadderUp
 
 Install Dependencies
 pip install -r requirements.txt
